@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2026-11-13 20:37:29  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2026-11-14 04:01:22  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## 客户端：
@@ -48,7 +48,7 @@
 
 **👉[免费、实用的在线工具](https://tools12345.com/zh)**
 
-## 免费clash节点分享  <a href="https://github.com/free-nodes/clashfree/blob/main/clash20261113.yml" target="_blank">点击下载</a>
+## 免费clash节点分享  <a href="https://github.com/free-nodes/clashfree/blob/main/clash20261114.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
 socks-port: 7891
