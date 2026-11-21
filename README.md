@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2026-11-21 21:00:18  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2026-11-22 05:53:08  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## 客户端：
@@ -48,7 +48,7 @@
 
 **👉[免费、实用的在线工具](https://tools12345.com/zh)**
 
-## 免费clash节点分享  <a href="https://github.com/free-nodes/clashfree/blob/main/clash20261121.yml" target="_blank">点击下载</a>
+## 免费clash节点分享  <a href="https://github.com/free-nodes/clashfree/blob/main/clash20261122.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
 socks-port: 7891
@@ -335,7 +335,6 @@ rules:
   - DOMAIN-KEYWORD,guanggao,🛑 全球拦截
   - DOMAIN-KEYWORD,omgmta,🛑 全球拦截
   - DOMAIN-KEYWORD,omniture,🛑 全球拦截
-  - DOMAIN-KEYWORD,openx,🛑 全球拦截
   - DOMAIN-KEYWORD,partnerad,🛑 全球拦截
   - DOMAIN-KEYWORD,pingfore,🛑 全球拦截
   - DOMAIN-KEYWORD,socdm,🛑 全球拦截
@@ -844,6 +843,9 @@ rules:
   - DOMAIN-SUFFIX,nend.net,🛑 全球拦截
   - DOMAIN-SUFFIX,netshelter.net,🛑 全球拦截
   - DOMAIN-SUFFIX,nexage.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,openx.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,openxenterprise.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,openxmarket.asia,🛑 全球拦截
   - DOMAIN-SUFFIX,owneriq.net,🛑 全球拦截
   - DOMAIN-SUFFIX,pixels.asia,🛑 全球拦截
   - DOMAIN-SUFFIX,plista.com,🛑 全球拦截
@@ -4056,7 +4058,6 @@ rules:
   - DOMAIN-KEYWORD,guanggao,🛑 全球拦截
   - DOMAIN-KEYWORD,omgmta,🛑 全球拦截
   - DOMAIN-KEYWORD,omniture,🛑 全球拦截
-  - DOMAIN-KEYWORD,openx,🛑 全球拦截
   - DOMAIN-KEYWORD,partnerad,🛑 全球拦截
   - DOMAIN-KEYWORD,pingfore,🛑 全球拦截
   - DOMAIN-KEYWORD,socdm,🛑 全球拦截
@@ -4565,6 +4566,9 @@ rules:
   - DOMAIN-SUFFIX,nend.net,🛑 全球拦截
   - DOMAIN-SUFFIX,netshelter.net,🛑 全球拦截
   - DOMAIN-SUFFIX,nexage.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,openx.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,openxenterprise.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,openxmarket.asia,🛑 全球拦截
   - DOMAIN-SUFFIX,owneriq.net,🛑 全球拦截
   - DOMAIN-SUFFIX,pixels.asia,🛑 全球拦截
   - DOMAIN-SUFFIX,plista.com,🛑 全球拦截
@@ -13265,23 +13269,23 @@ rules:
   - DOMAIN,mirror3.internetdownloadmanager.com,🍃 应用净化
   - DOMAIN,star.tonec.com,🍃 应用净化
   - DOMAIN,alt1-mtalk.google.com,📢 谷歌FCM
-  - DOMAIN,alt2-mtalk.google.com,📢 谷歌FCM
-  - DOMAIN,alt3-mtalk.google.com,📢 谷歌FCM
-  - DOMAIN,alt4-mtalk.google.com,📢 谷歌FCM
-  - DOMAIN,alt5-mtalk.google.com,📢 谷歌FCM
-  - DOMAIN,alt6-mtalk.google.com,📢 谷歌FCM
-  - DOMAIN,alt7-mtalk.google.com,📢 谷歌FCM
-  - DOMAIN,alt8-mtalk.google.com,📢 谷歌FCM
-  - DOMAIN,mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt1.mobile-gtalk.l.google.com,📢 谷歌FCM
+  - DOMAIN,alt2-mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt2.mobile-gtalk.l.google.com,📢 谷歌FCM
+  - DOMAIN,alt3-mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt3.mobile-gtalk.l.google.com,📢 谷歌FCM
+  - DOMAIN,alt4-mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt4.mobile-gtalk.l.google.com,📢 谷歌FCM
+  - DOMAIN,alt5-mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt5.mobile-gtalk.l.google.com,📢 谷歌FCM
+  - DOMAIN,alt6-mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt6.mobile-gtalk.l.google.com,📢 谷歌FCM
+  - DOMAIN,alt7-mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt7.mobile-gtalk.l.google.com,📢 谷歌FCM
+  - DOMAIN,alt8-mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt8.mobile-gtalk.l.google.com,📢 谷歌FCM
   - DOMAIN,mobile-gtalk.l.google.com,📢 谷歌FCM
+  - DOMAIN,mtalk.google.com,📢 谷歌FCM
   - IP-CIDR,64.233.177.188/32,📢 谷歌FCM,no-resolve
   - IP-CIDR,64.233.186.188/32,📢 谷歌FCM,no-resolve
   - IP-CIDR,64.233.187.188/32,📢 谷歌FCM,no-resolve
@@ -13489,8 +13493,8 @@ rules:
   - DOMAIN-SUFFIX,openai.com,🤖 OpenAi
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🤖 OpenAi
   - DOMAIN-SUFFIX,sentry.io,🤖 OpenAi
-  - DOMAIN-SUFFIX,stripe.com,🤖 OpenAi
   - DOMAIN-SUFFIX,sora.com,🤖 OpenAi
+  - DOMAIN-SUFFIX,stripe.com,🤖 OpenAi
   - DOMAIN-KEYWORD,openai,🤖 OpenAi
   - DOMAIN-SUFFIX,AI.com,🤖 OpenAi
   - DOMAIN-SUFFIX,cdn.auth0.com,🤖 OpenAi
@@ -13623,53 +13627,6 @@ rules:
   - IP-CIDR,208.75.76.0/22,🎥 奈飞视频,no-resolve
   - DOMAIN-SUFFIX,edgedatg.com,🌍 国外媒体
   - DOMAIN-SUFFIX,go.com,🌍 国外媒体
-  - DOMAIN-KEYWORD,anthropic,🌍 国外媒体
-  - DOMAIN-KEYWORD,claude,🌍 国外媒体
-  - DOMAIN-KEYWORD,openai,🌍 国外媒体
-  - DOMAIN,ai.google.dev,🌍 国外媒体
-  - DOMAIN,aistudio.google.com,🌍 国外媒体
-  - DOMAIN,api.githubcopilot.com,🌍 国外媒体
-  - DOMAIN,api.groq.com,🌍 国外媒体
-  - DOMAIN,api.together.xyz,🌍 国外媒体
-  - DOMAIN,bard.google.com,🌍 国外媒体
-  - DOMAIN,console.groq.com,🌍 国外媒体
-  - DOMAIN,copilot-proxy.githubusercontent.com,🌍 国外媒体
-  - DOMAIN,gemini.google.com,🌍 国外媒体
-  - DOMAIN,generativelanguage.googleapis.com,🌍 国外媒体
-  - DOMAIN,notebooklm.google.com,🌍 国外媒体
-  - DOMAIN,sydney.bing.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,ai.azure.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,anthropic.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,auth0.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,bard.google.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,chatgpt.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,claude.ai,🌍 国外媒体
-  - DOMAIN-SUFFIX,claude.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,claudeusercontent.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,client-api.arkoselabs.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,copilot.cloud.microsoft,🌍 国外媒体
-  - DOMAIN-SUFFIX,copilot.microsoft.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,cursor.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,cursor.sh,🌍 国外媒体
-  - DOMAIN-SUFFIX,events.statsigapi.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,featuregates.org,🌍 国外媒体
-  - DOMAIN-SUFFIX,gemini.google.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,grazie.ai,🌍 国外媒体
-  - DOMAIN-SUFFIX,grazie.aws.intellij.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,identrust.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,intercom.io,🌍 国外媒体
-  - DOMAIN-SUFFIX,intercomcdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,jetbrains.ai,🌍 国外媒体
-  - DOMAIN-SUFFIX,makersuite.google.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,meta.ai,🌍 国外媒体
-  - DOMAIN-SUFFIX,mistral.ai,🌍 国外媒体
-  - DOMAIN-SUFFIX,oaistatic.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,oaiusercontent.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,openai.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,perplexity.ai,🌍 国外媒体
-  - DOMAIN-SUFFIX,sora.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,x.ai,🌍 国外媒体
   - DOMAIN-KEYWORD,abematv.akamaized.net,🌍 国外媒体
   - DOMAIN-SUFFIX,abema.io,🌍 国外媒体
   - DOMAIN-SUFFIX,abema.tv,🌍 国外媒体
@@ -13906,22 +13863,6 @@ rules:
   - DOMAIN-SUFFIX,olevod.io,🌍 国外媒体
   - DOMAIN-SUFFIX,olevod.tv,🌍 国外媒体
   - DOMAIN-SUFFIX,olevodtv.com,🌍 国外媒体
-  - DOMAIN-KEYWORD,openai,🌍 国外媒体
-  - DOMAIN-SUFFIX,auth0.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,challenges.cloudflare.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,chatgpt.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,client-api.arkoselabs.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,events.statsigapi.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,featuregates.org,🌍 国外媒体
-  - DOMAIN-SUFFIX,identrust.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,intercom.io,🌍 国外媒体
-  - DOMAIN-SUFFIX,intercomcdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,oaistatic.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,oaiusercontent.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,openai.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,sentry.io,🌍 国外媒体
-  - DOMAIN-SUFFIX,stripe.com,🌍 国外媒体
   - DOMAIN-SUFFIX,pbs.org,🌍 国外媒体
   - DOMAIN-SUFFIX,pandora.com,🌍 国外媒体
   - DOMAIN-SUFFIX,phncdn.com,🌍 国外媒体
@@ -14150,6 +14091,61 @@ rules:
   - DOMAIN-SUFFIX,vimeo.com,🚀 节点选择
   - DOMAIN-SUFFIX,vine.co,🚀 节点选择
   - DOMAIN-SUFFIX,vox-cdn.com,🚀 节点选择
+  - DOMAIN,ai.google.dev,🚀 节点选择
+  - DOMAIN,aistudio.google.com,🚀 节点选择
+  - DOMAIN,api.githubcopilot.com,🚀 节点选择
+  - DOMAIN,api.groq.com,🚀 节点选择
+  - DOMAIN,api.together.xyz,🚀 节点选择
+  - DOMAIN,bard.google.com,🚀 节点选择
+  - DOMAIN,console.groq.com,🚀 节点选择
+  - DOMAIN,copilot-proxy.githubusercontent.com,🚀 节点选择
+  - DOMAIN,gemini.google.com,🚀 节点选择
+  - DOMAIN,geminiweb-pa.clients.google.com,🚀 节点选择
+  - DOMAIN,geminiweb-pa.clients6.google.com,🚀 节点选择
+  - DOMAIN,generativelanguage.googleapis.com,🚀 节点选择
+  - DOMAIN,notebooklm-pa.googleapis.com,🚀 节点选择
+  - DOMAIN,notebooklm.google.com,🚀 节点选择
+  - DOMAIN,sydney.bing.com,🚀 节点选择
+  - DOMAIN-KEYWORD,anthropic,🚀 节点选择
+  - DOMAIN-KEYWORD,antigravity,🚀 节点选择
+  - DOMAIN-KEYWORD,claude,🚀 节点选择
+  - DOMAIN-KEYWORD,openai,🚀 节点选择
+  - DOMAIN-SUFFIX,ai.azure.com,🚀 节点选择
+  - DOMAIN-SUFFIX,anthropic.com,🚀 节点选择
+  - DOMAIN-SUFFIX,auth0.com,🚀 节点选择
+  - DOMAIN-SUFFIX,bard.google.com,🚀 节点选择
+  - DOMAIN-SUFFIX,chatgpt.com,🚀 节点选择
+  - DOMAIN-SUFFIX,clau.de,🚀 节点选择
+  - DOMAIN-SUFFIX,claude.ai,🚀 节点选择
+  - DOMAIN-SUFFIX,claude.com,🚀 节点选择
+  - DOMAIN-SUFFIX,claudeusercontent.com,🚀 节点选择
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com,🚀 节点选择
+  - DOMAIN-SUFFIX,copilot.cloud.microsoft,🚀 节点选择
+  - DOMAIN-SUFFIX,copilot.microsoft.com,🚀 节点选择
+  - DOMAIN-SUFFIX,cursor.com,🚀 节点选择
+  - DOMAIN-SUFFIX,cursor.sh,🚀 节点选择
+  - DOMAIN-SUFFIX,events.statsigapi.net,🚀 节点选择
+  - DOMAIN-SUFFIX,featuregates.org,🚀 节点选择
+  - DOMAIN-SUFFIX,gemini.google.com,🚀 节点选择
+  - DOMAIN-SUFFIX,grazie.ai,🚀 节点选择
+  - DOMAIN-SUFFIX,grazie.aws.intellij.net,🚀 节点选择
+  - DOMAIN-SUFFIX,grok.com,🚀 节点选择
+  - DOMAIN-SUFFIX,identrust.com,🚀 节点选择
+  - DOMAIN-SUFFIX,intercom.io,🚀 节点选择
+  - DOMAIN-SUFFIX,intercomcdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,jetbrains.ai,🚀 节点选择
+  - DOMAIN-SUFFIX,makersuite.google.com,🚀 节点选择
+  - DOMAIN-SUFFIX,meta.ai,🚀 节点选择
+  - DOMAIN-SUFFIX,mistral.ai,🚀 节点选择
+  - DOMAIN-SUFFIX,notebooklm.google,🚀 节点选择
+  - DOMAIN-SUFFIX,notebooklm.google.com,🚀 节点选择
+  - DOMAIN-SUFFIX,oaistatic.com,🚀 节点选择
+  - DOMAIN-SUFFIX,oaiusercontent.com,🚀 节点选择
+  - DOMAIN-SUFFIX,openai.com,🚀 节点选择
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🚀 节点选择
+  - DOMAIN-SUFFIX,perplexity.ai,🚀 节点选择
+  - DOMAIN-SUFFIX,sora.com,🚀 节点选择
+  - DOMAIN-SUFFIX,x.ai,🚀 节点选择
   - DOMAIN-SUFFIX,amazon.co.jp,🚀 节点选择
   - DOMAIN-SUFFIX,amazon.com,🚀 节点选择
   - DOMAIN-SUFFIX,amazonaws.com,🚀 节点选择
@@ -14299,8 +14295,23 @@ rules:
   - IP-CIDR,119.235.236.0/23,🚀 节点选择,no-resolve
   - IP-CIDR,147.92.128.0/17,🚀 节点选择,no-resolve
   - IP-CIDR,203.104.128.0/19,🚀 节点选择,no-resolve
-  - DOMAIN-SUFFIX,openai.com,🚀 节点选择
+  - DOMAIN-KEYWORD,openai,🚀 节点选择
+  - DOMAIN-SUFFIX,auth0.com,🚀 节点选择
   - DOMAIN-SUFFIX,challenges.cloudflare.com,🚀 节点选择
+  - DOMAIN-SUFFIX,chatgpt.com,🚀 节点选择
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com,🚀 节点选择
+  - DOMAIN-SUFFIX,events.statsigapi.net,🚀 节点选择
+  - DOMAIN-SUFFIX,featuregates.org,🚀 节点选择
+  - DOMAIN-SUFFIX,identrust.com,🚀 节点选择
+  - DOMAIN-SUFFIX,intercom.io,🚀 节点选择
+  - DOMAIN-SUFFIX,intercomcdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,oaistatic.com,🚀 节点选择
+  - DOMAIN-SUFFIX,oaiusercontent.com,🚀 节点选择
+  - DOMAIN-SUFFIX,openai.com,🚀 节点选择
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🚀 节点选择
+  - DOMAIN-SUFFIX,sentry.io,🚀 节点选择
+  - DOMAIN-SUFFIX,sora.com,🚀 节点选择
+  - DOMAIN-SUFFIX,stripe.com,🚀 节点选择
   - DOMAIN-KEYWORD,1drv,🚀 节点选择
   - DOMAIN-KEYWORD,onedrive,🚀 节点选择
   - DOMAIN-KEYWORD,skydrive,🚀 节点选择
@@ -21041,23 +21052,23 @@ rules:
   - DOMAIN,mirror3.internetdownloadmanager.com,🍃 应用净化
   - DOMAIN,star.tonec.com,🍃 应用净化
   - DOMAIN,alt1-mtalk.google.com,📢 谷歌FCM
-  - DOMAIN,alt2-mtalk.google.com,📢 谷歌FCM
-  - DOMAIN,alt3-mtalk.google.com,📢 谷歌FCM
-  - DOMAIN,alt4-mtalk.google.com,📢 谷歌FCM
-  - DOMAIN,alt5-mtalk.google.com,📢 谷歌FCM
-  - DOMAIN,alt6-mtalk.google.com,📢 谷歌FCM
-  - DOMAIN,alt7-mtalk.google.com,📢 谷歌FCM
-  - DOMAIN,alt8-mtalk.google.com,📢 谷歌FCM
-  - DOMAIN,mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt1.mobile-gtalk.l.google.com,📢 谷歌FCM
+  - DOMAIN,alt2-mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt2.mobile-gtalk.l.google.com,📢 谷歌FCM
+  - DOMAIN,alt3-mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt3.mobile-gtalk.l.google.com,📢 谷歌FCM
+  - DOMAIN,alt4-mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt4.mobile-gtalk.l.google.com,📢 谷歌FCM
+  - DOMAIN,alt5-mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt5.mobile-gtalk.l.google.com,📢 谷歌FCM
+  - DOMAIN,alt6-mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt6.mobile-gtalk.l.google.com,📢 谷歌FCM
+  - DOMAIN,alt7-mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt7.mobile-gtalk.l.google.com,📢 谷歌FCM
+  - DOMAIN,alt8-mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt8.mobile-gtalk.l.google.com,📢 谷歌FCM
   - DOMAIN,mobile-gtalk.l.google.com,📢 谷歌FCM
+  - DOMAIN,mtalk.google.com,📢 谷歌FCM
   - IP-CIDR,64.233.177.188/32,📢 谷歌FCM,no-resolve
   - IP-CIDR,64.233.186.188/32,📢 谷歌FCM,no-resolve
   - IP-CIDR,64.233.187.188/32,📢 谷歌FCM,no-resolve
@@ -21265,8 +21276,8 @@ rules:
   - DOMAIN-SUFFIX,openai.com,🤖 OpenAi
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🤖 OpenAi
   - DOMAIN-SUFFIX,sentry.io,🤖 OpenAi
-  - DOMAIN-SUFFIX,stripe.com,🤖 OpenAi
   - DOMAIN-SUFFIX,sora.com,🤖 OpenAi
+  - DOMAIN-SUFFIX,stripe.com,🤖 OpenAi
   - DOMAIN-KEYWORD,openai,🤖 OpenAi
   - DOMAIN-SUFFIX,AI.com,🤖 OpenAi
   - DOMAIN-SUFFIX,cdn.auth0.com,🤖 OpenAi
@@ -21399,53 +21410,6 @@ rules:
   - IP-CIDR,208.75.76.0/22,🎥 奈飞视频,no-resolve
   - DOMAIN-SUFFIX,edgedatg.com,🌍 国外媒体
   - DOMAIN-SUFFIX,go.com,🌍 国外媒体
-  - DOMAIN-KEYWORD,anthropic,🌍 国外媒体
-  - DOMAIN-KEYWORD,claude,🌍 国外媒体
-  - DOMAIN-KEYWORD,openai,🌍 国外媒体
-  - DOMAIN,ai.google.dev,🌍 国外媒体
-  - DOMAIN,aistudio.google.com,🌍 国外媒体
-  - DOMAIN,api.githubcopilot.com,🌍 国外媒体
-  - DOMAIN,api.groq.com,🌍 国外媒体
-  - DOMAIN,api.together.xyz,🌍 国外媒体
-  - DOMAIN,bard.google.com,🌍 国外媒体
-  - DOMAIN,console.groq.com,🌍 国外媒体
-  - DOMAIN,copilot-proxy.githubusercontent.com,🌍 国外媒体
-  - DOMAIN,gemini.google.com,🌍 国外媒体
-  - DOMAIN,generativelanguage.googleapis.com,🌍 国外媒体
-  - DOMAIN,notebooklm.google.com,🌍 国外媒体
-  - DOMAIN,sydney.bing.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,ai.azure.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,anthropic.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,auth0.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,bard.google.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,chatgpt.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,claude.ai,🌍 国外媒体
-  - DOMAIN-SUFFIX,claude.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,claudeusercontent.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,client-api.arkoselabs.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,copilot.cloud.microsoft,🌍 国外媒体
-  - DOMAIN-SUFFIX,copilot.microsoft.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,cursor.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,cursor.sh,🌍 国外媒体
-  - DOMAIN-SUFFIX,events.statsigapi.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,featuregates.org,🌍 国外媒体
-  - DOMAIN-SUFFIX,gemini.google.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,grazie.ai,🌍 国外媒体
-  - DOMAIN-SUFFIX,grazie.aws.intellij.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,identrust.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,intercom.io,🌍 国外媒体
-  - DOMAIN-SUFFIX,intercomcdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,jetbrains.ai,🌍 国外媒体
-  - DOMAIN-SUFFIX,makersuite.google.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,meta.ai,🌍 国外媒体
-  - DOMAIN-SUFFIX,mistral.ai,🌍 国外媒体
-  - DOMAIN-SUFFIX,oaistatic.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,oaiusercontent.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,openai.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,perplexity.ai,🌍 国外媒体
-  - DOMAIN-SUFFIX,sora.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,x.ai,🌍 国外媒体
   - DOMAIN-KEYWORD,abematv.akamaized.net,🌍 国外媒体
   - DOMAIN-SUFFIX,abema.io,🌍 国外媒体
   - DOMAIN-SUFFIX,abema.tv,🌍 国外媒体
@@ -21682,22 +21646,6 @@ rules:
   - DOMAIN-SUFFIX,olevod.io,🌍 国外媒体
   - DOMAIN-SUFFIX,olevod.tv,🌍 国外媒体
   - DOMAIN-SUFFIX,olevodtv.com,🌍 国外媒体
-  - DOMAIN-KEYWORD,openai,🌍 国外媒体
-  - DOMAIN-SUFFIX,auth0.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,challenges.cloudflare.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,chatgpt.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,client-api.arkoselabs.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,events.statsigapi.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,featuregates.org,🌍 国外媒体
-  - DOMAIN-SUFFIX,identrust.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,intercom.io,🌍 国外媒体
-  - DOMAIN-SUFFIX,intercomcdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,oaistatic.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,oaiusercontent.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,openai.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,sentry.io,🌍 国外媒体
-  - DOMAIN-SUFFIX,stripe.com,🌍 国外媒体
   - DOMAIN-SUFFIX,pbs.org,🌍 国外媒体
   - DOMAIN-SUFFIX,pandora.com,🌍 国外媒体
   - DOMAIN-SUFFIX,phncdn.com,🌍 国外媒体
@@ -21926,6 +21874,61 @@ rules:
   - DOMAIN-SUFFIX,vimeo.com,🚀 节点选择
   - DOMAIN-SUFFIX,vine.co,🚀 节点选择
   - DOMAIN-SUFFIX,vox-cdn.com,🚀 节点选择
+  - DOMAIN,ai.google.dev,🚀 节点选择
+  - DOMAIN,aistudio.google.com,🚀 节点选择
+  - DOMAIN,api.githubcopilot.com,🚀 节点选择
+  - DOMAIN,api.groq.com,🚀 节点选择
+  - DOMAIN,api.together.xyz,🚀 节点选择
+  - DOMAIN,bard.google.com,🚀 节点选择
+  - DOMAIN,console.groq.com,🚀 节点选择
+  - DOMAIN,copilot-proxy.githubusercontent.com,🚀 节点选择
+  - DOMAIN,gemini.google.com,🚀 节点选择
+  - DOMAIN,geminiweb-pa.clients.google.com,🚀 节点选择
+  - DOMAIN,geminiweb-pa.clients6.google.com,🚀 节点选择
+  - DOMAIN,generativelanguage.googleapis.com,🚀 节点选择
+  - DOMAIN,notebooklm-pa.googleapis.com,🚀 节点选择
+  - DOMAIN,notebooklm.google.com,🚀 节点选择
+  - DOMAIN,sydney.bing.com,🚀 节点选择
+  - DOMAIN-KEYWORD,anthropic,🚀 节点选择
+  - DOMAIN-KEYWORD,antigravity,🚀 节点选择
+  - DOMAIN-KEYWORD,claude,🚀 节点选择
+  - DOMAIN-KEYWORD,openai,🚀 节点选择
+  - DOMAIN-SUFFIX,ai.azure.com,🚀 节点选择
+  - DOMAIN-SUFFIX,anthropic.com,🚀 节点选择
+  - DOMAIN-SUFFIX,auth0.com,🚀 节点选择
+  - DOMAIN-SUFFIX,bard.google.com,🚀 节点选择
+  - DOMAIN-SUFFIX,chatgpt.com,🚀 节点选择
+  - DOMAIN-SUFFIX,clau.de,🚀 节点选择
+  - DOMAIN-SUFFIX,claude.ai,🚀 节点选择
+  - DOMAIN-SUFFIX,claude.com,🚀 节点选择
+  - DOMAIN-SUFFIX,claudeusercontent.com,🚀 节点选择
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com,🚀 节点选择
+  - DOMAIN-SUFFIX,copilot.cloud.microsoft,🚀 节点选择
+  - DOMAIN-SUFFIX,copilot.microsoft.com,🚀 节点选择
+  - DOMAIN-SUFFIX,cursor.com,🚀 节点选择
+  - DOMAIN-SUFFIX,cursor.sh,🚀 节点选择
+  - DOMAIN-SUFFIX,events.statsigapi.net,🚀 节点选择
+  - DOMAIN-SUFFIX,featuregates.org,🚀 节点选择
+  - DOMAIN-SUFFIX,gemini.google.com,🚀 节点选择
+  - DOMAIN-SUFFIX,grazie.ai,🚀 节点选择
+  - DOMAIN-SUFFIX,grazie.aws.intellij.net,🚀 节点选择
+  - DOMAIN-SUFFIX,grok.com,🚀 节点选择
+  - DOMAIN-SUFFIX,identrust.com,🚀 节点选择
+  - DOMAIN-SUFFIX,intercom.io,🚀 节点选择
+  - DOMAIN-SUFFIX,intercomcdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,jetbrains.ai,🚀 节点选择
+  - DOMAIN-SUFFIX,makersuite.google.com,🚀 节点选择
+  - DOMAIN-SUFFIX,meta.ai,🚀 节点选择
+  - DOMAIN-SUFFIX,mistral.ai,🚀 节点选择
+  - DOMAIN-SUFFIX,notebooklm.google,🚀 节点选择
+  - DOMAIN-SUFFIX,notebooklm.google.com,🚀 节点选择
+  - DOMAIN-SUFFIX,oaistatic.com,🚀 节点选择
+  - DOMAIN-SUFFIX,oaiusercontent.com,🚀 节点选择
+  - DOMAIN-SUFFIX,openai.com,🚀 节点选择
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🚀 节点选择
+  - DOMAIN-SUFFIX,perplexity.ai,🚀 节点选择
+  - DOMAIN-SUFFIX,sora.com,🚀 节点选择
+  - DOMAIN-SUFFIX,x.ai,🚀 节点选择
   - DOMAIN-SUFFIX,amazon.co.jp,🚀 节点选择
   - DOMAIN-SUFFIX,amazon.com,🚀 节点选择
   - DOMAIN-SUFFIX,amazonaws.com,🚀 节点选择
@@ -22075,8 +22078,23 @@ rules:
   - IP-CIDR,119.235.236.0/23,🚀 节点选择,no-resolve
   - IP-CIDR,147.92.128.0/17,🚀 节点选择,no-resolve
   - IP-CIDR,203.104.128.0/19,🚀 节点选择,no-resolve
-  - DOMAIN-SUFFIX,openai.com,🚀 节点选择
+  - DOMAIN-KEYWORD,openai,🚀 节点选择
+  - DOMAIN-SUFFIX,auth0.com,🚀 节点选择
   - DOMAIN-SUFFIX,challenges.cloudflare.com,🚀 节点选择
+  - DOMAIN-SUFFIX,chatgpt.com,🚀 节点选择
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com,🚀 节点选择
+  - DOMAIN-SUFFIX,events.statsigapi.net,🚀 节点选择
+  - DOMAIN-SUFFIX,featuregates.org,🚀 节点选择
+  - DOMAIN-SUFFIX,identrust.com,🚀 节点选择
+  - DOMAIN-SUFFIX,intercom.io,🚀 节点选择
+  - DOMAIN-SUFFIX,intercomcdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,oaistatic.com,🚀 节点选择
+  - DOMAIN-SUFFIX,oaiusercontent.com,🚀 节点选择
+  - DOMAIN-SUFFIX,openai.com,🚀 节点选择
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🚀 节点选择
+  - DOMAIN-SUFFIX,sentry.io,🚀 节点选择
+  - DOMAIN-SUFFIX,sora.com,🚀 节点选择
+  - DOMAIN-SUFFIX,stripe.com,🚀 节点选择
   - DOMAIN-KEYWORD,1drv,🚀 节点选择
   - DOMAIN-KEYWORD,onedrive,🚀 节点选择
   - DOMAIN-KEYWORD,skydrive,🚀 节点选择
