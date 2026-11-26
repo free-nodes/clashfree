@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2026-11-26 16:53:39  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2026-11-27 05:55:22  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## 客户端：
@@ -48,7 +48,7 @@
 
 **👉[免费、实用的在线工具](https://tools12345.com/zh)**
 
-## 免费clash节点分享  <a href="https://github.com/free-nodes/clashfree/blob/main/clash20261126.yml" target="_blank">点击下载</a>
+## 免费clash节点分享  <a href="https://github.com/free-nodes/clashfree/blob/main/clash20261127.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
 socks-port: 7891
@@ -13256,6 +13256,9 @@ rules:
   - DOMAIN,v1alj9xr0qxh.u0op6.adobestats.io,🍃 应用净化
   - DOMAIN,dm2rgokrftc.u0op6.adobestats.io,🍃 应用净化
   - DOMAIN,8fxx4s39t0.4cbdo.adobestats.io,🍃 应用净化
+  - DOMAIN,e3cd8djkclh.ay6tu.adobestats.io,🍃 应用净化
+  - DOMAIN,i3bffsy8lz.u0op6.adobestats.io,🍃 应用净化
+  - DOMAIN,rupmsjmytiwg.u0op6.adobestats.io,🍃 应用净化
   - DOMAIN-SUFFIX,tonec.com,🍃 应用净化
   - DOMAIN-SUFFIX,registeridm.com,🍃 应用净化
   - DOMAIN-SUFFIX,internetdownloadmanager.com,🍃 应用净化
@@ -21039,6 +21042,9 @@ rules:
   - DOMAIN,v1alj9xr0qxh.u0op6.adobestats.io,🍃 应用净化
   - DOMAIN,dm2rgokrftc.u0op6.adobestats.io,🍃 应用净化
   - DOMAIN,8fxx4s39t0.4cbdo.adobestats.io,🍃 应用净化
+  - DOMAIN,e3cd8djkclh.ay6tu.adobestats.io,🍃 应用净化
+  - DOMAIN,i3bffsy8lz.u0op6.adobestats.io,🍃 应用净化
+  - DOMAIN,rupmsjmytiwg.u0op6.adobestats.io,🍃 应用净化
   - DOMAIN-SUFFIX,tonec.com,🍃 应用净化
   - DOMAIN-SUFFIX,registeridm.com,🍃 应用净化
   - DOMAIN-SUFFIX,internetdownloadmanager.com,🍃 应用净化
