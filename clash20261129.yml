@@ -594,7 +594,6 @@ rules:
   - DOMAIN-SUFFIX,switchadhub.com,🛑 全球拦截
   - DOMAIN-SUFFIX,sycbbs.com,🛑 全球拦截
   - DOMAIN-SUFFIX,synacast.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,sysdig.com,🛑 全球拦截
   - DOMAIN-SUFFIX,talkingdata.com,🛑 全球拦截
   - DOMAIN-SUFFIX,talkingdata.net,🛑 全球拦截
   - DOMAIN-SUFFIX,tansuotv.com,🛑 全球拦截
@@ -9481,6 +9480,9 @@ rules:
   - DOMAIN,v1alj9xr0qxh.u0op6.adobestats.io,🍃 应用净化
   - DOMAIN,dm2rgokrftc.u0op6.adobestats.io,🍃 应用净化
   - DOMAIN,8fxx4s39t0.4cbdo.adobestats.io,🍃 应用净化
+  - DOMAIN,e3cd8djkclh.ay6tu.adobestats.io,🍃 应用净化
+  - DOMAIN,i3bffsy8lz.u0op6.adobestats.io,🍃 应用净化
+  - DOMAIN,rupmsjmytiwg.u0op6.adobestats.io,🍃 应用净化
   - DOMAIN-SUFFIX,tonec.com,🍃 应用净化
   - DOMAIN-SUFFIX,registeridm.com,🍃 应用净化
   - DOMAIN-SUFFIX,internetdownloadmanager.com,🍃 应用净化
@@ -9570,6 +9572,7 @@ rules:
   - DOMAIN,dl.steam.clngaa.com,🎯 全球直连
   - DOMAIN,dl.steam.ksyna.com,🎯 全球直连
   - DOMAIN,dota2.wmsj.cn,🎯 全球直连
+  - DOMAIN,gstore.val.manlaxy.com,🎯 全球直连
   - DOMAIN,st.dl.bscstorage.net,🎯 全球直连
   - DOMAIN,st.dl.eccdnx.com,🎯 全球直连
   - DOMAIN,st.dl.pinyuncloud.com,🎯 全球直连
@@ -10097,6 +10100,7 @@ rules:
   - DOMAIN-SUFFIX,qobuz.com,🌍 国外媒体
   - DOMAIN-SUFFIX,p-cdn.us,🌍 国外媒体
   - DOMAIN-SUFFIX,sndcdn.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,soundcloud.cloud,🌍 国外媒体
   - DOMAIN-SUFFIX,soundcloud.com,🌍 国外媒体
   - DOMAIN-KEYWORD,-spotify-,🌍 国外媒体
   - DOMAIN-KEYWORD,spotify.com,🌍 国外媒体
@@ -10590,7 +10594,6 @@ rules:
   - DOMAIN-SUFFIX,steamcommunity.com,🚀 节点选择
   - DOMAIN-SUFFIX,steamgames.com,🚀 节点选择
   - DOMAIN-SUFFIX,steampowered.com,🚀 节点选择
-  - DOMAIN-SUFFIX,steamserver.net,🚀 节点选择
   - DOMAIN-SUFFIX,steamstatic.com,🚀 节点选择
   - DOMAIN-SUFFIX,steamstat.us,🚀 节点选择
   - DOMAIN,steambroadcast.akamaized.net,🚀 节点选择
@@ -10976,6 +10979,7 @@ rules:
   - DOMAIN,wmsjsteam.com,🎯 全球直连
   - DOMAIN,dl.steam.clngaa.com,🎯 全球直连
   - DOMAIN,dl.steam.ksyna.com,🎯 全球直连
+  - DOMAIN,gstore.val.manlaxy.com,🎯 全球直连
   - DOMAIN,st.dl.bscstorage.net,🎯 全球直连
   - DOMAIN,st.dl.eccdnx.com,🎯 全球直连
   - DOMAIN,st.dl.pinyuncloud.com,🎯 全球直连
@@ -10984,6 +10988,7 @@ rules:
   - DOMAIN,steampowered.com.8686c.com,🎯 全球直连
   - DOMAIN,steamstatic.com.8686c.com,🎯 全球直连
   - DOMAIN-SUFFIX,foxmail.com,🎯 全球直连
+  - DOMAIN-SUFFIX,gcloudsvcs.com,🎯 全球直连
   - DOMAIN-SUFFIX,gtimg.com,🎯 全球直连
   - DOMAIN-SUFFIX,idqqimg.com,🎯 全球直连
   - DOMAIN-SUFFIX,igamecj.com,🎯 全球直连
@@ -11294,6 +11299,12 @@ rules:
   - DOMAIN-SUFFIX,zhuihd.com,🎯 全球直连
   - DOMAIN-SUFFIX,cmbchina.com,🎯 全球直连
   - DOMAIN-SUFFIX,95516.com,🎯 全球直连
+  - DOMAIN,cn.download.nvidia.com,🎯 全球直连
+  - DOMAIN-SUFFIX,made-in-china.com,🎯 全球直连
+  - DOMAIN-SUFFIX,micstatic.com,🎯 全球直连
+  - DOMAIN-SUFFIX,focuschina.com,🎯 全球直连
+  - DOMAIN-SUFFIX,vemic.com,🎯 全球直连
+  - DOMAIN-SUFFIX,trademessenger.com,🎯 全球直连
   - IP-CIDR,8.128.0.0/10,🎯 全球直连,no-resolve
   - IP-CIDR,8.209.32.0/22,🎯 全球直连,no-resolve
   - IP-CIDR,8.209.40.0/21,🎯 全球直连,no-resolve
